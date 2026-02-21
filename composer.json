@@ -1,0 +1,7 @@
+{
+    "require": {
+        "spatie/pdf-to-image": "^1.2",
+        "maennchen/zipstream-php": "^3.1",
+        "phpoffice/phpword": "^1.4"
+    }
+}
